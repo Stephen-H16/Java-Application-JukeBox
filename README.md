@@ -1,4 +1,4 @@
-# Project
+# Jukebox Application Project (Java)
 
 The Song:
 A Song class consists of an artist, a title, a price, a play count (the number of times that song has been played) and a length. Song class has appropriate constructors and the following methods:
@@ -32,4 +32,4 @@ The Jukebox application class allows the user to create a named Jukebox. It then
 8. Display all Songs in the Jukebox.
 9. Display all Songs by a specific artist in the Jukebox.
 10. Get the name of the jukebox.
-11. Exit the program. (If the user chooses this option, your application should display an exit message before closing.)
+11. Exit the program.
